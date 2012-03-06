@@ -8,4 +8,4 @@ My changes are better!
 
 
 ## License
-MIT Licensez
+BSD Licensez
