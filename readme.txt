@@ -8,4 +8,4 @@ My changes are better!
 
 
 ## License
-BSD Licensez
+DO WHATEVER THE HELL YOU WANT LICENSE
